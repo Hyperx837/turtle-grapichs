@@ -15,7 +15,7 @@ def flower(n=None):
         n = 0
 
     pen.forward(100)
-    pen.left(200)
+    pen.left(179)
     flower(n + 179)
 
 
